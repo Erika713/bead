@@ -1,0 +1,41 @@
+A Kisebb vagy Nagyobb (Higher or Lower) egy nagyon egyszerû játék. 
+Azon kártyajátékok egyike, amely könnyen megérthetõ és elsajátítható.
+
+A következõ útmutató leírja a játékhoz szükséges alapvetõ szabályokat:
+
+A játék akkor kezdõdik, ha a New Game gombra kattintva elindítunk egy új játékot. 
+Ezután teszünk egy tétet(Bet vagy All In). 
+Ekkor kérünk egy osztást (Deal). 
+Lesz egy lap, amit felfordítva látunk és lesz egy másik, aminek még csak lefordítva látunk.
+
+Ekkor meg kell tippelnünk, hogy "kezünkben lévõ", nem látható kártya értéke nagyobb (Higher) 
+vagy kisebb lesz (Lower).
+
+Amennyiben nem vagyunk biztosak a döntésünkben, kérhetünk egy tippet (Hint).
+Ekkor megkapjuk, hogy mennyi kártya vagy még a pakliban (Unused Cards), ebbõl mennyi az, ami 
+nagyobb mint az asztalon felfordított kárty (Higher cards) és mennyi az, ami kisebb (Lower Cards).
+
+Ha tippeltünk, a kezünkben lévõ kártya felfordul és láthatjuk melyik volt az. 
+A kártyalap felett megjelenik, hogy helyes (Correct Answer) volt-e a tipp vagy sem (Wrong Answer).
+Az ablak jobb oldalán van két számláló (Wrong Answers és Correct Answers), ezek számolják, hogy 
+mennyi helyes és mennyi helytelen válaszunk volt.
+Amennyiben helyesen tippeltünk a tétünk kétszeresét kapjuk meg, ellenkezõ esetben a tétünk 
+kétszeresét vonja le az aktuális pénzünkbõl.
+Azt is láthatjuk, hogy éppen mennyi pénzünk van. Szintén jobb oldalt mutatja az éppen aktuális 
+összeget (Player's Cash).
+
+A játék hét játszmából áll, abban az esetben, ha a helytelen válaszaink szám (Wrong Answers) 
+nem haladja meg a kettõt vagy nem vesztjük el az összes pénünket.
+Ha ezek valamelyike következik be a játék véget ér és megjelenk a GAME OVER felirat. 
+Ezután nem folytathatjuk a játékot, csak újat kezdhetunk, ha a New Game gombra kattintunk.
+Egy esetben fejezõdhet még be sikertelenül a játék, ha a feladjuk (Give Up). Ezt azonban csak 
+a tét megtétele (Bet vagy All In) elõtt tehetjünk meg. 
+Ekkor megjelenik az ablakon a YOU GIVE UP felirat és már csak új játékot kezdhetünk, 
+ha a New Game gombra kattintunk.
+
+A játék sikeres lesz, ha hét játszmát végig lejátszuk és a téves tippek száma maximum kettõ. 
+Tehát a játékos nyer, ha :
+- van 7 helyes tippe és 0 helytelen
+- van 6 helyes tippe és 1 helytelen
+- van 5 helyes tippe és 2 helytelen
+A többi esetben a játékos veszít.

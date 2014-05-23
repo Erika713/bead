@@ -1,0 +1,15 @@
+23:09:45.946 [AWT-EventQueue-0] INFO  higherorlower.Game - Init a new game.
+23:09:45.951 [AWT-EventQueue-0] INFO  higherorlower.Player - Create a new player.
+23:09:45.953 [AWT-EventQueue-0] INFO  higherorlower.Deck - Create new deck!
+23:09:46.147 [AWT-EventQueue-0] INFO  higherorlower.Deck - Init a deck from an XML file.
+23:09:46.148 [AWT-EventQueue-0] INFO  higherorlower.Deck - Shuffling deck.
+23:09:46.245 [AWT-EventQueue-0] INFO  higherorlower.HigherOrLowerGUI - Create a HigherOrLowerGUI.
+23:09:48.914 [AWT-EventQueue-0] INFO  higherorlower.HigherOrLowerGUI - Welcome the new player: Erika .
+23:09:50.896 [AWT-EventQueue-0] INFO  higherorlower.Game - Init a new game.
+23:09:50.896 [AWT-EventQueue-0] INFO  higherorlower.Deck - Create new deck!
+23:09:50.909 [AWT-EventQueue-0] INFO  higherorlower.Deck - Init a deck from an XML file.
+23:09:50.909 [AWT-EventQueue-0] INFO  higherorlower.Deck - Shuffling deck.
+23:09:50.910 [AWT-EventQueue-0] INFO  higherorlower.Player - Set 10000.0 cash value to Erika.
+23:09:57.050 [AWT-EventQueue-0] INFO  higherorlower.Game - Set game state to start.
+23:09:58.628 [AWT-EventQueue-0] INFO  higherorlower.Game - Correct Answer.
+23:09:58.628 [AWT-EventQueue-0] INFO  higherorlower.Player - Set 10600.0 cash value to Erika.
